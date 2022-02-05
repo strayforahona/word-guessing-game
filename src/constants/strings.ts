@@ -1,12 +1,12 @@
-export const GAME_TITLE = 'STRAy'
+export const GAME_TITLE = 'STRAY KIDS WORDLE'
 
 export const WIN_MESSAGES = ['Great Job!', 'Awesome', 'Well done!']
-export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
-export const ABOUT_GAME_MESSAGE = 'About this game'
+export const GAME_COPIED_MESSAGE = 'Result copied to clipboard. You can paste it anywhere now!'
+export const ABOUT_GAME_MESSAGE = 'About'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Not enough letters'
-export const WORD_NOT_FOUND_MESSAGE = 'Word not found'
+export const WORD_NOT_FOUND_MESSAGE = 'Word not found (Sorry, we have made this on a limited bandwidth, so some legit words in the English language might not be recognised'
 export const CORRECT_WORD_MESSAGE = (solution: string) =>
-  `The word was ${solution}`
+  `The word for today was ${solution}`
 export const ENTER_TEXT = 'Enter'
 export const DELETE_TEXT = 'Delete'
 export const STATISTICS_TITLE = 'Statistics'
