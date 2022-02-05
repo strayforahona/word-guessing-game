@@ -11,10 +11,16 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
       <p className="text-sm text-gray-500 dark:text-gray-300">
         This is an open source word guessing game -{' '}
         <a
-          href="https://github.com/hannahcode/GAME"
+          href="https://github.com/strayforahona/word-guessing-game/"
           className="underline font-bold"
         >
-          check out the code here
+          check out the code here. 
+          For any queries, contact 
+          <a
+          href="https://twitter.com/felixired"
+          className="underline font-bold"
+        ></a>
+          @felixired
         </a>{' '}
       </p>
     </BaseModal>
