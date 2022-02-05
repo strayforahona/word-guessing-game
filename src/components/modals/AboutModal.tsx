@@ -17,7 +17,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
           check out the code here
         </a>{' '}
 
-        For any queries, -{' '}
+        For any queries, contact -{' '}
         <j
           href="https://twitter.com/felixired"
           className="underline font-bold"
