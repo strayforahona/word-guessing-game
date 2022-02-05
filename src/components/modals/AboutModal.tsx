@@ -18,12 +18,12 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
         </a>{' '}
 
         For any queries, contact -{' '}
-        <j
+        <a
           href="https://twitter.com/felixired"
           className="underline font-bold"
         >
           @felixired
-        </j>{' '}
+        </a>{' '}
       </p>
     </BaseModal>
   )
