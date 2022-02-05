@@ -14,7 +14,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
           href="https://github.com/strayforahona/word-guessing-game"
           className="underline font-bold"
         >
-          check out the code here
+          check out the code here. 
         </a>{' '}
 
         For any queries, contact -{' '}
