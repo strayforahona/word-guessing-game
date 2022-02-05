@@ -5,4 +5,10 @@ export const WORDS = [
   'boxer',
   'close',
   'drive',
+  '',
+  '',
+  '',
+  '',
+  '',
+  '',
 ]
